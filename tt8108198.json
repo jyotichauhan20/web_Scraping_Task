@@ -1,0 +1,20 @@
+{
+    "name": "Persona",
+    "country": [
+        "Swedish",
+        "English"
+    ],
+    "language": [
+        "    ",
+        "See more\u00a0\u00bb",
+        "    "
+    ],
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "bio": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+    "director": [
+        "Ingmar Bergman"
+    ]
+}

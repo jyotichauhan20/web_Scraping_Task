@@ -1,0 +1,21 @@
+{
+    "name": "Incendies",
+    "country": [
+        "Canada",
+        "France"
+    ],
+    "language": [
+        "French",
+        "Arabic",
+        "English"
+    ],
+    "runtime": "131 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "director": [
+        "Denis Villeneuve"
+    ]
+}

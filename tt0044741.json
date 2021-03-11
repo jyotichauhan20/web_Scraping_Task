@@ -1,0 +1,19 @@
+{
+    "name": "Scarface",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "170 min",
+    "genre": [
+        "Crime"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "director": [
+        "Brian De Palma"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Indiana Jones and the Last Crusade",
+    "country": [
+        "USA",
+        "UK"
+    ],
+    "language": [
+        "English",
+        "German",
+        "Greek",
+        "Arabic"
+    ],
+    "runtime": "127 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "director": [
+        "Steven Spielberg"
+    ]
+}

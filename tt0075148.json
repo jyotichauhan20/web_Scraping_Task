@@ -1,0 +1,18 @@
+{
+    "name": "Rocky",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "Mono",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "director": [
+        "John G. Avildsen"
+    ]
+}

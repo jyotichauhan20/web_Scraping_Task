@@ -1,0 +1,21 @@
+{
+    "name": "Gladiator",
+    "country": [
+        "USA",
+        "UK",
+        "Malta",
+        "Morocco"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "155 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "director": [
+        "Ridley Scott"
+    ]
+}

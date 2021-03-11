@@ -1,0 +1,19 @@
+{
+    "name": "Finding Nemo",
+    "country": [
+        "USA",
+        "Australia"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "100 min",
+    "genre": [
+        "Animation"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "director": [
+        "Andrew Stanton"
+    ]
+}

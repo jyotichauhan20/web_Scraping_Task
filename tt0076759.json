@@ -1,0 +1,19 @@
+{
+    "name": "Star Wars",
+    "country": [
+        "USA",
+        "UK"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "121 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "director": [
+        "George Lucas"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Goodfellas",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Italian"
+    ],
+    "runtime": "146 min",
+    "genre": [
+        "Biography"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "director": [
+        "Martin Scorsese"
+    ]
+}

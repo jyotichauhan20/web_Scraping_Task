@@ -1,0 +1,22 @@
+{
+    "name": "The Usual Suspects",
+    "country": [
+        "USA",
+        "Germany"
+    ],
+    "language": [
+        "English",
+        "Hungarian",
+        "Spanish",
+        "French"
+    ],
+    "runtime": "106 min",
+    "genre": [
+        "Crime"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "director": [
+        "Bryan Singer"
+    ]
+}

@@ -1,0 +1,617 @@
+{
+    "Frank Darabont": {
+        "English": 2,
+        "French": 1
+    },
+    "Francis Ford Coppola": {
+        "English": 3,
+        "French": 1,
+        "Vietnamese": 1
+    },
+    "Christopher Nolan": {
+        "English": 6,
+        "Mandarin": 2
+    },
+    "Sidney Lumet": {
+        "    ": 2,
+        "See more\u00a0\u00bb": 2
+    },
+    "Steven Spielberg": {
+        "English": 6,
+        "French": 2
+    },
+    "Peter Jackson": {
+        "English": 3,
+        "Sindarin": 3,
+        "Old English": 2
+    },
+    "Quentin Tarantino": {
+        "English": 5,
+        "Japanese": 1,
+        "French": 4
+    },
+    "Sergio Leone": {
+        "    ": 3,
+        "See more\u00a0\u00bb": 3
+    },
+    "David Fincher": {
+        "English": 3
+    },
+    "Robert Zemeckis": {
+        "English": 2
+    },
+    "Irvin Kershner": {
+        "English": 1
+    },
+    "Lana Wachowski": {
+        "English": 1
+    },
+    "Martin Scorsese": {
+        "    ": 4,
+        "See more\u00a0\u00bb": 4
+    },
+    "Milos Forman": {
+        "English": 1,
+        "Italian": 1,
+        "Latin": 1,
+        "German": 1
+    },
+    "Akira Kurosawa": {
+        "    ": 6,
+        "See more\u00a0\u00bb": 6
+    },
+    "Roberto Benigni": {
+        "Italian": 1,
+        "German": 1,
+        "English": 1
+    },
+    "Fernando Meirelles": {
+        "Portuguese": 1
+    },
+    "Jonathan Demme": {
+        "English": 1,
+        "Latin": 1
+    },
+    "Frank Capra": {
+        "    ": 2,
+        "See more\u00a0\u00bb": 2
+    },
+    "George Lucas": {
+        "English": 1
+    },
+    "Hayao Miyazaki": {
+        "Japanese": 5
+    },
+    "Bong Joon Ho": {
+        "Korean": 2,
+        "English": 2
+    },
+    "Luc Besson": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Masaki Kobayashi": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Bryan Singer": {
+        "English": 1,
+        "Hungarian": 1,
+        "Spanish": 1,
+        "French": 1
+    },
+    "Roger Allers": {
+        "English": 1,
+        "Swahili": 1,
+        "Xhosa": 1,
+        "Zulu": 1
+    },
+    "Roman Polanski": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "James Cameron": {
+        "English": 2
+    },
+    "Tony Kaye": {
+        "English": 1
+    },
+    "Charles Chaplin": {
+        "None": 3,
+        "English": 5
+    },
+    "Ridley Scott": {
+        "English": 3,
+        "German": 1,
+        "Cantonese": 1,
+        "Japanese": 1,
+        "Hungarian": 1,
+        "Arabic": 1
+    },
+    "Alfred Hitchcock": {
+        "    ": 4,
+        "See more\u00a0\u00bb": 4
+    },
+    "Olivier Nakache": {
+        "French": 1,
+        "English": 1
+    },
+    "Damien Chazelle": {
+        "English": 1
+    },
+    "Isao Takahata": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Michael Curtiz": {
+        "English": 1,
+        "French": 1,
+        "German": 1,
+        "Italian": 1
+    },
+    "Giuseppe Tornatore": {
+        "Italian": 1
+    },
+    "Thomas Kail": {
+        "English": 1
+    },
+    "Florian Henckel von Donnersmarck": {
+        "German": 1
+    },
+    "Stanley Kubrick": {
+        "    ": 4,
+        "See more\u00a0\u00bb": 4
+    },
+    "Todd Phillips": {
+        "English": 1
+    },
+    "Andrew Stanton": {
+        "English": 2
+    },
+    "Anthony Russo": {
+        "English": 2,
+        "Japanese": 1,
+        "Xhosa": 1,
+        "German": 1
+    },
+    "Billy Wilder": {
+        "    ": 4,
+        "See more\u00a0\u00bb": 4
+    },
+    "Chan-wook Park": {
+        "Korean": 2,
+        "Japanese": 1
+    },
+    "Bob Persichetti": {
+        "English": 1,
+        "Spanish": 1
+    },
+    "Makoto Shinkai": {
+        "Japanese": 1
+    },
+    "Lee Unkrich": {
+        "English": 2,
+        "Spanish": 2
+    },
+    "Sam Mendes": {
+        "English": 2,
+        "French": 1,
+        "German": 1
+    },
+    "Nadine Labaki": {
+        "Arabic": 1,
+        "Amharic": 1
+    },
+    "Mel Gibson": {
+        "English": 2,
+        "Japanese": 1
+    },
+    "Wolfgang Petersen": {
+        "German": 1
+    },
+    "John Lasseter": {
+        "English": 1
+    },
+    "Rajkumar Hirani": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Richard Marquand": {
+        "English": 1
+    },
+    "Gus Van Sant": {
+        "English": 1
+    },
+    "Aamir Khan": {
+        "Hindi": 1
+    },
+    "Darren Aronofsky": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Fritz Lang": {
+        "None": 1,
+        "German": 1
+    },
+    "Thomas Vinterberg": {
+        "Danish": 1,
+        "English": 1,
+        "Polish": 1
+    },
+    "Michel Gondry": {
+        "English": 1
+    },
+    "Orson Welles": {
+        "English": 1,
+        "Italian": 1
+    },
+    "Nitesh Tiwari": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Stanley Donen": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Vittorio De Sica": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Elem Klimov": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Guy Ritchie": {
+        "English": 2
+    },
+    "Brian De Palma": {
+        "English": 1,
+        "Spanish": 1
+    },
+    "Denis Villeneuve": {
+        "English": 2
+    },
+    "Asghar Farhadi": {
+        "Persian": 1
+    },
+    "David Lean": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "George Roy Hill": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Jean-Pierre Jeunet": {
+        "French": 1,
+        "Russian": 1,
+        "English": 1
+    },
+    "Robert Mulligan": {
+        "English": 1
+    },
+    "Pete Docter": {
+        "English": 4
+    },
+    "Michael Mann": {
+        "English": 1,
+        "Spanish": 1
+    },
+    "Curtis Hanson": {
+        "English": 1
+    },
+    "John McTiernan": {
+        "English": 1,
+        "German": 1,
+        "Italian": 1,
+        "Japanese": 1
+    },
+    "Peter Farrelly": {
+        "English": 1,
+        "Italian": 1,
+        "Russian": 1,
+        "German": 1
+    },
+    "Terry Gilliam": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Oliver Hirschbiegel": {
+        "German": 1,
+        "Russian": 1,
+        "French": 1,
+        "English": 1
+    },
+    "Majid Majidi": {
+        "Persian": 1
+    },
+    "Clint Eastwood": {
+        "English": 3,
+        "Irish": 1
+    },
+    "Joseph L. Mankiewicz": {
+        "English": 1,
+        "French": 1
+    },
+    "Ron Howard": {
+        "English": 2,
+        "German": 1,
+        "Italian": 1,
+        "French": 1,
+        "Spanish": 1
+    },
+    "John Sturges": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Guillermo del Toro": {
+        "Spanish": 1
+    },
+    "Juan Jos\u00e9 Campanella": {
+        "Spanish": 1
+    },
+    "Paul Thomas Anderson": {
+        "English": 1,
+        "American Sign Language": 1
+    },
+    "Stanley Kramer": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "John Huston": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Martin McDonagh": {
+        "English": 1
+    },
+    "\u00c7agan Irmak": {
+        "Turkish": 1
+    },
+    "Ethan Coen": {
+        "English": 1,
+        "Spanish": 1
+    },
+    "James McTeigue": {
+        "English": 1
+    },
+    "David Lynch": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "John Carpenter": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Ingmar Bergman": {
+        "    ": 4,
+        "See more\u00a0\u00bb": 4
+    },
+    "Gavin O'Connor": {
+        "English": 1,
+        "Spanish": 1
+    },
+    "M. Night Shyamalan": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Danny Boyle": {
+        "English": 1
+    },
+    "Sergio Pablos": {
+        "English": 1,
+        "Saami": 1
+    },
+    "Peter Weir": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Victor Fleming": {
+        "English": 1
+    },
+    "Andrei Tarkovsky": {
+        "    ": 2,
+        "See more\u00a0\u00bb": 2
+    },
+    "Joel Coen": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Ram Kumar": {
+        "Tamil": 1
+    },
+    "Lenny Abrahamson": {
+        "English": 1
+    },
+    "Dami\u00e1n Szifron": {
+        "Spanish": 1
+    },
+    "Carol Reed": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Yasujir\u00f4 Ozu": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Elia Kazan": {
+        "English": 1
+    },
+    "Michael Cimino": {
+        "English": 1,
+        "Vietnamese": 1,
+        "French": 1,
+        "Russian": 1,
+        "Cantonese": 1
+    },
+    "Jim Sheridan": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Adam Elliot": {
+        "English": 1,
+        "Yiddish": 1
+    },
+    "Wes Anderson": {
+        "English": 1,
+        "French": 1,
+        "German": 1
+    },
+    "Richard Linklater": {
+        "English": 1,
+        "French": 1
+    },
+    "Hrishikesh Mukherjee": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Sriram Raghavan": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Buster Keaton": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Ernst Lubitsch": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Clyde Bruckman": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Dean DeBlois": {
+        "English": 1
+    },
+    "James Mangold": {
+        "English": 2,
+        "Spanish": 1
+    },
+    "Yavuz Turgul": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Steve McQueen": {
+        "English": 1
+    },
+    "George Miller": {
+        "English": 1,
+        "Russian": 1
+    },
+    "Rob Reiner": {
+        "English": 1
+    },
+    "David Yates": {
+        "English": 1
+    },
+    "William Wyler": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Lasse Hallstr\u00f6m": {
+        "English": 1,
+        "Japanese": 1
+    },
+    "Stuart Rosenberg": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Oliver Stone": {
+        "English": 1,
+        "Vietnamese": 1
+    },
+    "Sean Penn": {
+        "English": 1,
+        "Danish": 1
+    },
+    "Henri-Georges Clouzot": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Terry Jones": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Mathieu Kassovitz": {
+        "French": 1
+    },
+    "Fran\u00e7ois Truffaut": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Tom McCarthy": {
+        "English": 1
+    },
+    "Carl Theodor Dreyer": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Terry George": {
+        "English": 1,
+        "French": 1,
+        "Kinyarwanda": 1
+    },
+    "Alejandro G. I\u00f1\u00e1rritu": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Anurag Kashyap": {
+        "Hindi": 1
+    },
+    "John G. Avildsen": {
+        "English": 1
+    },
+    "Emir Kusturica": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Rakeysh Omprakash Mehra": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Jules Dassin": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Kar-Wai Wong": {
+        "Cantonese": 1,
+        "Shanghainese": 1,
+        "French": 1,
+        "Spanish": 1
+    },
+    "Wim Wenders": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "C\u00e9line Sciamma": {
+        "French": 1,
+        "Italian": 1
+    },
+    "Nishikant Kamat": {
+        "Hindi": 1,
+        "English": 1
+    },
+    "Jeethu Joseph": {
+        "Malayalam": 1
+    },
+    "Naoko Yamada": {
+        "Japanese": 1,
+        "Japanese Sign Language": 1
+    },
+    "Oriol Paulo": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Gillo Pontecorvo": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    },
+    "Tate Taylor": {
+        "English": 1
+    },
+    "Zaza Urushadze": {
+        "    ": 1,
+        "See more\u00a0\u00bb": 1
+    }
+}

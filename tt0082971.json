@@ -1,0 +1,24 @@
+{
+    "name": "Raiders of the Lost Ark",
+    "country": [
+        "USA",
+        "UK"
+    ],
+    "language": [
+        "English",
+        "German",
+        "Hebrew",
+        "Spanish",
+        "Arabic",
+        "Nepali"
+    ],
+    "runtime": "115 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "director": [
+        "Steven Spielberg"
+    ]
+}

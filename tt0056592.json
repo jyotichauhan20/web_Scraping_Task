@@ -1,0 +1,18 @@
+{
+    "name": "To Kill a Mockingbird",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "129 min",
+    "genre": [
+        "Crime"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "director": [
+        "Robert Mulligan"
+    ]
+}

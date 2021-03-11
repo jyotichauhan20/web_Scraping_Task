@@ -1,0 +1,4983 @@
+[
+    {
+        "name": "The Shawshank Redemption",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "142 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "director": [
+            "Frank Darabont"
+        ]
+    },
+    {
+        "name": "The Godfather",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "Latin"
+        ],
+        "runtime": "175 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+        "director": [
+            "Francis Ford Coppola"
+        ]
+    },
+    {
+        "name": "The Godfather: Part II",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "Spanish",
+            "Latin",
+            "Sicilian"
+        ],
+        "runtime": "202 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "director": [
+            "Francis Ford Coppola"
+        ]
+    },
+    {
+        "name": "The Dark Knight",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "Mandarin"
+        ],
+        "runtime": "152 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "12 Angry Men",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "director": [
+            "Sidney Lumet"
+        ]
+    },
+    {
+        "name": "Schindler's List",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Hebrew",
+            "German",
+            "Polish",
+            "Latin"
+        ],
+        "runtime": "195 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "The Lord of the Rings: The Return of the King",
+        "country": [
+            "New Zealand",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Quenya",
+            "Old English",
+            "Sindarin"
+        ],
+        "runtime": "201 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "director": [
+            "Peter Jackson"
+        ]
+    },
+    {
+        "name": "Pulp Fiction",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "runtime": "154 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "director": [
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "name": "Il buono, il brutto, il cattivo",
+        "country": [
+            "Italian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Western"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "director": [
+            "Sergio Leone"
+        ]
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "country": [
+            "New Zealand",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Sindarin"
+        ],
+        "runtime": "178 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "director": [
+            "Peter Jackson"
+        ]
+    },
+    {
+        "name": "Fight Club",
+        "country": [
+            "Germany",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "139 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "director": [
+            "David Fincher"
+        ]
+    },
+    {
+        "name": "Forrest Gump",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "142 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "director": [
+            "Robert Zemeckis"
+        ]
+    },
+    {
+        "name": "Inception",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "runtime": "148 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "The Lord of the Rings: The Two Towers",
+        "country": [
+            "New Zealand",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Sindarin",
+            "Old English"
+        ],
+        "runtime": "179 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "director": [
+            "Peter Jackson"
+        ]
+    },
+    {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "124 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+        "director": [
+            "Irvin Kershner"
+        ]
+    },
+    {
+        "name": "The Matrix",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "136 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "director": [
+            "Lana Wachowski"
+        ]
+    },
+    {
+        "name": "Goodfellas",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian"
+        ],
+        "runtime": "146 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+        "director": [
+            "Milos Forman"
+        ]
+    },
+    {
+        "name": "Shichinin no samurai",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "Se7en",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "127 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "director": [
+            "David Fincher"
+        ]
+    },
+    {
+        "name": "La vita \u00e8 bella",
+        "country": [
+            "Italy"
+        ],
+        "language": [
+            "Italian",
+            "German",
+            "English"
+        ],
+        "runtime": "116 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "director": [
+            "Roberto Benigni"
+        ]
+    },
+    {
+        "name": "Cidade de Deus",
+        "country": [
+            "Brazil",
+            "France",
+            "Germany"
+        ],
+        "language": [
+            "Portuguese"
+        ],
+        "runtime": "130 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "director": [
+            "Fernando Meirelles"
+        ]
+    },
+    {
+        "name": "The Silence of the Lambs",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Latin"
+        ],
+        "runtime": "118 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "director": [
+            "Jonathan Demme"
+        ]
+    },
+    {
+        "name": "It's a Wonderful Life",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "130 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "director": [
+            "Frank Capra"
+        ]
+    },
+    {
+        "name": "Star Wars",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "121 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "director": [
+            "George Lucas"
+        ]
+    },
+    {
+        "name": "Saving Private Ryan",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "German",
+            "Czech"
+        ],
+        "runtime": "169 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "The Green Mile",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "189 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "director": [
+            "Frank Darabont"
+        ]
+    },
+    {
+        "name": "Sen to Chihiro no kamikakushi",
+        "country": [
+            "Japan",
+            "USA"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "DTS-ES",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "director": [
+            "Hayao Miyazaki"
+        ]
+    },
+    {
+        "name": "Interstellar",
+        "country": [
+            "USA",
+            "UK",
+            "Canada"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "169 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "Gisaengchung",
+        "country": [
+            "South Korea"
+        ],
+        "language": [
+            "Korean",
+            "English"
+        ],
+        "runtime": "132 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "director": [
+            "Bong Joon Ho"
+        ]
+    },
+    {
+        "name": "L\u00e9on",
+        "country": [
+            "English",
+            "Italian",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Mathilda, a 12-year-old girl, is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+        "director": [
+            "Luc Besson"
+        ]
+    },
+    {
+        "name": "Seppuku",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "bio": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+        "director": [
+            "Masaki Kobayashi"
+        ]
+    },
+    {
+        "name": "The Usual Suspects",
+        "country": [
+            "USA",
+            "Germany"
+        ],
+        "language": [
+            "English",
+            "Hungarian",
+            "Spanish",
+            "French"
+        ],
+        "runtime": "106 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "director": [
+            "Bryan Singer"
+        ]
+    },
+    {
+        "name": "The Lion King",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Swahili",
+            "Xhosa",
+            "Zulu"
+        ],
+        "runtime": "88 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "director": [
+            "Roger Allers"
+        ]
+    },
+    {
+        "name": "The Pianist",
+        "country": [
+            "UK",
+            "France",
+            "Poland",
+            "Germany",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "runtime": "150 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+        "bio": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "director": [
+            "Roman Polanski"
+        ]
+    },
+    {
+        "name": "Back to the Future",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "116 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+        "director": [
+            "Robert Zemeckis"
+        ]
+    },
+    {
+        "name": "Terminator 2: Judgment Day",
+        "country": [
+            "USA",
+            "France"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "137 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced and powerful cyborg.",
+        "director": [
+            "James Cameron"
+        ]
+    },
+    {
+        "name": "American History X",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "119 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "director": [
+            "Tony Kaye"
+        ]
+    },
+    {
+        "name": "Modern Times",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "87 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "director": [
+            "Charles Chaplin"
+        ]
+    },
+    {
+        "name": "Gladiator",
+        "country": [
+            "USA",
+            "UK",
+            "Malta",
+            "Morocco"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "155 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "director": [
+            "Ridley Scott"
+        ]
+    },
+    {
+        "name": "Psycho",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Horror"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "The Departed",
+        "country": [
+            "USA",
+            "Hong Kong"
+        ],
+        "language": [
+            "English",
+            "Cantonese"
+        ],
+        "runtime": "151 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "City Lights",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "None",
+            "English"
+        ],
+        "runtime": "87 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "director": [
+            "Charles Chaplin"
+        ]
+    },
+    {
+        "name": "The Intouchables",
+        "country": [
+            "France"
+        ],
+        "language": [
+            "French",
+            "English"
+        ],
+        "runtime": "112 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "director": [
+            "Olivier Nakache"
+        ]
+    },
+    {
+        "name": "Whiplash",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "106 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "director": [
+            "Damien Chazelle"
+        ]
+    },
+    {
+        "name": "Hotaru no haka",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "director": [
+            "Isao Takahata"
+        ]
+    },
+    {
+        "name": "The Prestige",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "SDDS",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "Once Upon a Time in the West",
+        "country": [
+            "English",
+            "Italian",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Western"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "director": [
+            "Sergio Leone"
+        ]
+    },
+    {
+        "name": "Casablanca",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "German",
+            "Italian"
+        ],
+        "runtime": "102 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+        "director": [
+            "Michael Curtiz"
+        ]
+    },
+    {
+        "name": "Nuovo Cinema Paradiso",
+        "country": [
+            "Italy",
+            "France"
+        ],
+        "language": [
+            "Italian"
+        ],
+        "runtime": "155 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+        "director": [
+            "Giuseppe Tornatore"
+        ]
+    },
+    {
+        "name": "Rear Window",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Mystery"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "Alien",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "117 min",
+        "genre": [
+            "Horror"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+        "director": [
+            "Ridley Scott"
+        ]
+    },
+    {
+        "name": "Apocalypse Now",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "Vietnamese"
+        ],
+        "runtime": "147 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "director": [
+            "Francis Ford Coppola"
+        ]
+    },
+    {
+        "name": "Memento",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "113 min",
+        "genre": [
+            "Mystery"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "The Great Dictator",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Esperanto"
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "director": [
+            "Charles Chaplin"
+        ]
+    },
+    {
+        "name": "Raiders of the Lost Ark",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Hebrew",
+            "Spanish",
+            "Arabic",
+            "Nepali"
+        ],
+        "runtime": "115 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "Django Unchained",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "German",
+            "French",
+            "Italian"
+        ],
+        "runtime": "165 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+        "director": [
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "name": "Hamilton",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+        "director": [
+            "Thomas Kail"
+        ]
+    },
+    {
+        "name": "The Lives of Others",
+        "country": [
+            "Germany",
+            "France"
+        ],
+        "language": [
+            "German"
+        ],
+        "runtime": "137 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+        "director": [
+            "Florian Henckel von Donnersmarck"
+        ]
+    },
+    {
+        "name": "Paths of Glory",
+        "country": [
+            "English",
+            "German",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+        "bio": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "Joker",
+        "country": [
+            "USA",
+            "Canada"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "122 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "director": [
+            "Todd Phillips"
+        ]
+    },
+    {
+        "name": "WALL\u00b7E",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "98 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "director": [
+            "Andrew Stanton"
+        ]
+    },
+    {
+        "name": "The Shining",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "144 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "Avengers: Infinity War",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "149 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "director": [
+            "Anthony Russo"
+        ]
+    },
+    {
+        "name": "Sunset Blvd.",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "director": [
+            "Billy Wilder"
+        ]
+    },
+    {
+        "name": "Witness for the Prosecution",
+        "country": [
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "director": [
+            "Billy Wilder"
+        ]
+    },
+    {
+        "name": "Oldeuboi",
+        "country": [
+            "South Korea"
+        ],
+        "language": [
+            "Korean"
+        ],
+        "runtime": "120 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+        "director": [
+            "Chan-wook Park"
+        ]
+    },
+    {
+        "name": "Mononoke-hime",
+        "country": [
+            "Japan",
+            "USA"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "director": [
+            "Hayao Miyazaki"
+        ]
+    },
+    {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "117 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "director": [
+            "Bob Persichetti"
+        ]
+    },
+    {
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Russian"
+        ],
+        "runtime": "95 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "The Dark Knight Rises",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Arabic"
+        ],
+        "runtime": "164 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "Once Upon a Time in America",
+        "country": [
+            "Italy",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "French",
+            "Yiddish",
+            "Hebrew"
+        ],
+        "runtime": "229 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "director": [
+            "Sergio Leone"
+        ]
+    },
+    {
+        "name": "Kimi no na wa.",
+        "country": [
+            "Japan"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+        "director": [
+            "Makoto Shinkai"
+        ]
+    },
+    {
+        "name": "Aliens",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "137 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+        "director": [
+            "James Cameron"
+        ]
+    },
+    {
+        "name": "Coco",
+        "country": [
+            "USA",
+            "Mexico"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "105 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "director": [
+            "Lee Unkrich"
+        ]
+    },
+    {
+        "name": "Avengers: Endgame",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Japanese",
+            "Xhosa",
+            "German"
+        ],
+        "runtime": "181 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "director": [
+            "Anthony Russo"
+        ]
+    },
+    {
+        "name": "American Beauty",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "122 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "director": [
+            "Sam Mendes"
+        ]
+    },
+    {
+        "name": "Capharna\u00fcm",
+        "country": [
+            "Lebanon",
+            "USA",
+            "France",
+            "Cyprus",
+            "Qatar",
+            "UK"
+        ],
+        "language": [
+            "Arabic",
+            "Amharic"
+        ],
+        "runtime": "126 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+        "director": [
+            "Nadine Labaki"
+        ]
+    },
+    {
+        "name": "Braveheart",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "Latin",
+            "Scottish Gaelic",
+            "Italian"
+        ],
+        "runtime": "178 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "director": [
+            "Mel Gibson"
+        ]
+    },
+    {
+        "name": "Das Boot",
+        "country": [
+            "West Germany"
+        ],
+        "language": [
+            "German"
+        ],
+        "runtime": "149 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+        "director": [
+            "Wolfgang Petersen"
+        ]
+    },
+    {
+        "name": "Toy Story",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "81 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "director": [
+            "John Lasseter"
+        ]
+    },
+    {
+        "name": "3 Idiots",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "runtime": "170 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "director": [
+            "Rajkumar Hirani"
+        ]
+    },
+    {
+        "name": "Tengoku to jigoku",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "Amadeus",
+        "country": [
+            "USA",
+            "France",
+            "Czechoslovakia",
+            "Italy"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "Latin",
+            "German"
+        ],
+        "runtime": "160 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+        "director": [
+            "Milos Forman"
+        ]
+    },
+    {
+        "name": "Inglourious Basterds",
+        "country": [
+            "USA",
+            "Germany"
+        ],
+        "language": [
+            "English",
+            "German",
+            "French",
+            "Italian"
+        ],
+        "runtime": "153 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "director": [
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "131 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+        "director": [
+            "Richard Marquand"
+        ]
+    },
+    {
+        "name": "Good Will Hunting",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "126 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "director": [
+            "Gus Van Sant"
+        ]
+    },
+    {
+        "name": "Taare Zameen Par",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Hindi"
+        ],
+        "runtime": "DTS",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "director": [
+            "Aamir Khan"
+        ]
+    },
+    {
+        "name": "Reservoir Dogs",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "99 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "director": [
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "name": "2001: A Space Odyssey",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Russian"
+        ],
+        "runtime": "149 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "Requiem for a Dream",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Surround 7.1",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "director": [
+            "Darren Aronofsky"
+        ]
+    },
+    {
+        "name": "Vertigo",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "128 min",
+        "genre": [
+            "Mystery"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "M - Eine Stadt sucht einen M\u00f6rder",
+        "country": [
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "director": [
+            "Fritz Lang"
+        ]
+    },
+    {
+        "name": "Jagten",
+        "country": [
+            "Denmark",
+            "Sweden"
+        ],
+        "language": [
+            "Danish",
+            "English",
+            "Polish"
+        ],
+        "runtime": "115 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "director": [
+            "Thomas Vinterberg"
+        ]
+    },
+    {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "108 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+        "director": [
+            "Michel Gondry"
+        ]
+    },
+    {
+        "name": "Citizen Kane",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian"
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+        "director": [
+            "Orson Welles"
+        ]
+    },
+    {
+        "name": "Dangal",
+        "country": [
+            "USA",
+            "UK",
+            "Australia",
+            "Kenya",
+            "Namibia",
+            "India"
+        ],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "runtime": "161 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+        "director": [
+            "Nitesh Tiwari"
+        ]
+    },
+    {
+        "name": "Singin' in the Rain",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A silent film production company and cast make a difficult transition to sound.",
+        "director": [
+            "Stanley Donen"
+        ]
+    },
+    {
+        "name": "Ladri di biciclette",
+        "country": [
+            "Italian",
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+        "director": [
+            "Vittorio De Sica"
+        ]
+    },
+    {
+        "name": "Full Metal Jacket",
+        "country": [
+            "English",
+            "Vietnamese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "The Kid",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "None",
+            "English"
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+        "director": [
+            "Charles Chaplin"
+        ]
+    },
+    {
+        "name": "Idi i smotri",
+        "country": [
+            "Russian",
+            "Belarusian",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "director": [
+            "Elem Klimov"
+        ]
+    },
+    {
+        "name": "Snatch",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Russian"
+        ],
+        "runtime": "104 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "director": [
+            "Guy Ritchie"
+        ]
+    },
+    {
+        "name": "North by Northwest",
+        "country": [
+            "English",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "A Clockwork Orange",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "Scarface",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "170 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "director": [
+            "Brian De Palma"
+        ]
+    },
+    {
+        "name": "Ikiru",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "1917",
+        "country": [
+            "USA",
+            "UK",
+            "India",
+            "Spain",
+            "Canada",
+            "China"
+        ],
+        "language": [
+            "English",
+            "French",
+            "German"
+        ],
+        "runtime": "119 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "director": [
+            "Sam Mendes"
+        ]
+    },
+    {
+        "name": "Taxi Driver",
+        "country": [
+            "English",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby SR",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "Incendies",
+        "country": [
+            "Canada",
+            "France"
+        ],
+        "language": [
+            "French",
+            "Arabic",
+            "English"
+        ],
+        "runtime": "131 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "director": [
+            "Denis Villeneuve"
+        ]
+    },
+    {
+        "name": "Jodaeiye Nader az Simin",
+        "country": [
+            "Iran",
+            "France",
+            "Australia"
+        ],
+        "language": [
+            "Persian"
+        ],
+        "runtime": "123 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+        "director": [
+            "Asghar Farhadi"
+        ]
+    },
+    {
+        "name": "Lawrence of Arabia",
+        "country": [
+            "UK"
+        ],
+        "language": [
+            "English",
+            "Arabic",
+            "Turkish"
+        ],
+        "runtime": "187 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+        "director": [
+            "David Lean"
+        ]
+    },
+    {
+        "name": "Toy Story 3",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "103 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "director": [
+            "Lee Unkrich"
+        ]
+    },
+    {
+        "name": "The Sting",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two grifters team up to pull off the ultimate con.",
+        "director": [
+            "George Roy Hill"
+        ]
+    },
+    {
+        "name": "Am\u00e9lie",
+        "country": [
+            "France",
+            "Germany"
+        ],
+        "language": [
+            "French",
+            "Russian",
+            "English"
+        ],
+        "runtime": "122 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+        "director": [
+            "Jean-Pierre Jeunet"
+        ]
+    },
+    {
+        "name": "Metropolis",
+        "country": [
+            "Germany"
+        ],
+        "language": [
+            "None",
+            "German"
+        ],
+        "runtime": "153 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+        "director": [
+            "Fritz Lang"
+        ]
+    },
+    {
+        "name": "Per qualche dollaro in pi\u00f9",
+        "country": [
+            "Italian",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Western"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+        "director": [
+            "Sergio Leone"
+        ]
+    },
+    {
+        "name": "The Apartment",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "director": [
+            "Billy Wilder"
+        ]
+    },
+    {
+        "name": "Double Indemnity",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+        "director": [
+            "Billy Wilder"
+        ]
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "129 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+        "director": [
+            "Robert Mulligan"
+        ]
+    },
+    {
+        "name": "Up",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "96 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+        "director": [
+            "Pete Docter"
+        ]
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Greek",
+            "Arabic"
+        ],
+        "runtime": "127 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "Heat",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "170 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+        "director": [
+            "Michael Mann"
+        ]
+    },
+    {
+        "name": "L.A. Confidential",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "138 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+        "director": [
+            "Curtis Hanson"
+        ]
+    },
+    {
+        "name": "Die Hard",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Italian",
+            "Japanese"
+        ],
+        "runtime": "132 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "director": [
+            "John McTiernan"
+        ]
+    },
+    {
+        "name": "Green Book",
+        "country": [
+            "USA",
+            "China"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "Russian",
+            "German"
+        ],
+        "runtime": "130 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "director": [
+            "Peter Farrelly"
+        ]
+    },
+    {
+        "name": "Monty Python and the Holy Grail",
+        "country": [
+            "English",
+            "French",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "director": [
+            "Terry Gilliam"
+        ]
+    },
+    {
+        "name": "Batman Begins",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "Mandarin"
+        ],
+        "runtime": "140 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+        "director": [
+            "Christopher Nolan"
+        ]
+    },
+    {
+        "name": "Y\u00f4jinb\u00f4",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "Rash\u00f4mon",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "Der Untergang",
+        "country": [
+            "Germany",
+            "Austria",
+            "Italy"
+        ],
+        "language": [
+            "German",
+            "Russian",
+            "French",
+            "English"
+        ],
+        "runtime": "156 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "director": [
+            "Oliver Hirschbiegel"
+        ]
+    },
+    {
+        "name": "Bacheha-Ye aseman",
+        "country": [
+            "Iran"
+        ],
+        "language": [
+            "Persian"
+        ],
+        "runtime": "89 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+        "director": [
+            "Majid Majidi"
+        ]
+    },
+    {
+        "name": "Unforgiven",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "130 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+        "director": [
+            "Clint Eastwood"
+        ]
+    },
+    {
+        "name": "Ran",
+        "country": [
+            "Japanese"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "director": [
+            "Akira Kurosawa"
+        ]
+    },
+    {
+        "name": "Some Like It Hot",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+        "director": [
+            "Billy Wilder"
+        ]
+    },
+    {
+        "name": "Hauru no ugoku shiro",
+        "country": [
+            "Japan",
+            "USA"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "Dolby Digital EX",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+        "director": [
+            "Hayao Miyazaki"
+        ]
+    },
+    {
+        "name": "All About Eve",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "138 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A seemingly timid but secretly ruthless ing\u00e9nue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+        "director": [
+            "Joseph L. Mankiewicz"
+        ]
+    },
+    {
+        "name": "Casino",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "DTS-Stereo",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "A Beautiful Mind",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "135 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "director": [
+            "Ron Howard"
+        ]
+    },
+    {
+        "name": "The Wolf of Wall Street",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "180 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "The Great Escape",
+        "country": [
+            "English",
+            "German",
+            "French",
+            "Russian",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+        "director": [
+            "John Sturges"
+        ]
+    },
+    {
+        "name": "Pan's Labyrinth",
+        "country": [
+            "Mexico",
+            "Spain"
+        ],
+        "language": [
+            "Spanish"
+        ],
+        "runtime": "118 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+        "director": [
+            "Guillermo del Toro"
+        ]
+    },
+    {
+        "name": "El secreto de sus ojos",
+        "country": [
+            "Argentina",
+            "Spain"
+        ],
+        "language": [
+            "Spanish"
+        ],
+        "runtime": "129 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "director": [
+            "Juan Jos\u00e9 Campanella"
+        ]
+    },
+    {
+        "name": "There Will Be Blood",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "American Sign Language"
+        ],
+        "runtime": "158 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "director": [
+            "Paul Thomas Anderson"
+        ]
+    },
+    {
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "country": [
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "107 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+        "director": [
+            "Guy Ritchie"
+        ]
+    },
+    {
+        "name": "Judgment at Nuremberg",
+        "country": [
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+        "director": [
+            "Stanley Kramer"
+        ]
+    },
+    {
+        "name": "Tonari no Totoro",
+        "country": [
+            "Japan"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "Dolby Stereo",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "director": [
+            "Hayao Miyazaki"
+        ]
+    },
+    {
+        "name": "Raging Bull",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Stereo",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "The Treasure of the Sierra Madre",
+        "country": [
+            "English",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "director": [
+            "John Huston"
+        ]
+    },
+    {
+        "name": "Dial M for Murder",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A former tennis player tries to arrange his wife's murder after learning of her affair.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "115 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+        "director": [
+            "Martin McDonagh"
+        ]
+    },
+    {
+        "name": "Shutter Island",
+        "country": [
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "SDDS",
+        "genre": [
+            "Mystery"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "director": [
+            "Martin Scorsese"
+        ]
+    },
+    {
+        "name": "The Gold Rush",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "None",
+            "English"
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "bio": "A prospector goes to the Klondike in search of gold and finds it and more.",
+        "director": [
+            "Charles Chaplin"
+        ]
+    },
+    {
+        "name": "Chinatown",
+        "country": [
+            "English",
+            "Cantonese",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+        "director": [
+            "Roman Polanski"
+        ]
+    },
+    {
+        "name": "Babam ve Oglum",
+        "country": [
+            "Turkey"
+        ],
+        "language": [
+            "Turkish"
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+        "director": [
+            "\u00c7agan Irmak"
+        ]
+    },
+    {
+        "name": "No Country for Old Men",
+        "country": [
+            "USA",
+            "Mexico"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "122 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+        "director": [
+            "Ethan Coen"
+        ]
+    },
+    {
+        "name": "V for Vendetta",
+        "country": [
+            "USA",
+            "UK",
+            "Germany"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "132 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+        "director": [
+            "James McTeigue"
+        ]
+    },
+    {
+        "name": "Inside Out",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Portuguese"
+        ],
+        "runtime": "95 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "director": [
+            "Pete Docter"
+        ]
+    },
+    {
+        "name": "The Elephant Man",
+        "country": [
+            "English",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of kindness, intelligence and sophistication.",
+        "director": [
+            "David Lynch"
+        ]
+    },
+    {
+        "name": "The Thing",
+        "country": [
+            "English",
+            "Norwegian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Stereo",
+        "genre": [
+            "Horror"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "director": [
+            "John Carpenter"
+        ]
+    },
+    {
+        "name": "Det sjunde inseglet",
+        "country": [
+            "Swedish",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+        "director": [
+            "Ingmar Bergman"
+        ]
+    },
+    {
+        "name": "Warrior",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "140 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+        "director": [
+            "Gavin O'Connor"
+        ]
+    },
+    {
+        "name": "The Sixth Sense",
+        "country": [
+            "English",
+            "Latin",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "DTS",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+        "director": [
+            "M. Night Shyamalan"
+        ]
+    },
+    {
+        "name": "Jurassic Park",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "127 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "Trainspotting",
+        "country": [
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "93 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+        "director": [
+            "Danny Boyle"
+        ]
+    },
+    {
+        "name": "Klaus",
+        "country": [
+            "Spain",
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Saami"
+        ],
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+        "director": [
+            "Sergio Pablos"
+        ]
+    },
+    {
+        "name": "The Truman Show",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "103 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "director": [
+            "Peter Weir"
+        ]
+    },
+    {
+        "name": "Gone with the Wind",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "238 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+        "director": [
+            "Victor Fleming"
+        ]
+    },
+    {
+        "name": "Finding Nemo",
+        "country": [
+            "USA",
+            "Australia"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "100 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+        "director": [
+            "Andrew Stanton"
+        ]
+    },
+    {
+        "name": "Stalker",
+        "country": [
+            "Russian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+        "director": [
+            "Andrei Tarkovsky"
+        ]
+    },
+    {
+        "name": "Smultronst\u00e4llet",
+        "country": [
+            "Swedish",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjJhNTBmNTgtMDViOC00NDY2LWE4N2ItMDJiM2ZiYmQzYzliXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+        "director": [
+            "Ingmar Bergman"
+        ]
+    },
+    {
+        "name": "Blade Runner",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Cantonese",
+            "Japanese",
+            "Hungarian",
+            "Arabic"
+        ],
+        "runtime": "117 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+        "director": [
+            "Ridley Scott"
+        ]
+    },
+    {
+        "name": "Kill Bill: Vol. 1",
+        "country": [
+            "USA",
+            "Japan"
+        ],
+        "language": [
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "runtime": "111 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+        "director": [
+            "Quentin Tarantino"
+        ]
+    },
+    {
+        "name": "Salinui chueok",
+        "country": [
+            "South Korea"
+        ],
+        "language": [
+            "Korean",
+            "English"
+        ],
+        "runtime": "131 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+        "director": [
+            "Bong Joon Ho"
+        ]
+    },
+    {
+        "name": "The Bridge on the River Kwai",
+        "country": [
+            "English",
+            "Japanese",
+            "Thai"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+        "director": [
+            "David Lean"
+        ]
+    },
+    {
+        "name": "Fargo",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "98 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "director": [
+            "Joel Coen"
+        ]
+    },
+    {
+        "name": "Ratsasan",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Tamil"
+        ],
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+        "bio": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally.",
+        "director": [
+            "Ram Kumar"
+        ]
+    },
+    {
+        "name": "Room",
+        "country": [
+            "Canada",
+            "Ireland",
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "118 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+        "director": [
+            "Lenny Abrahamson"
+        ]
+    },
+    {
+        "name": "Relatos salvajes",
+        "country": [
+            "Argentina",
+            "Spain",
+            "France",
+            "UK"
+        ],
+        "language": [
+            "Spanish"
+        ],
+        "runtime": "122 min",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "Six short stories that explore the extremities of human behavior involving people in distress.",
+        "director": [
+            "Dami\u00e1n Szifron"
+        ]
+    },
+    {
+        "name": "Gran Torino",
+        "country": [
+            "Germany",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Hmong"
+        ],
+        "runtime": "116 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+        "director": [
+            "Clint Eastwood"
+        ]
+    },
+    {
+        "name": "The Third Man",
+        "country": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Film-Noir"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+        "director": [
+            "Carol Reed"
+        ]
+    },
+    {
+        "name": "T\u00f4ky\u00f4 monogatari",
+        "country": [
+            "Japanese",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+        "director": [
+            "Yasujir\u00f4 Ozu"
+        ]
+    },
+    {
+        "name": "On the Waterfront",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+        "director": [
+            "Elia Kazan"
+        ]
+    },
+    {
+        "name": "The Deer Hunter",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Vietnamese",
+            "French",
+            "Russian",
+            "Cantonese"
+        ],
+        "runtime": "70 mm 6-Track",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+        "director": [
+            "Michael Cimino"
+        ]
+    },
+    {
+        "name": "In the Name of the Father",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Stereo",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+        "director": [
+            "Jim Sheridan"
+        ]
+    },
+    {
+        "name": "Mary and Max",
+        "country": [
+            "Australia",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Yiddish"
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+        "director": [
+            "Adam Elliot"
+        ]
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "country": [
+            "Germany",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "German"
+        ],
+        "runtime": "99 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "director": [
+            "Wes Anderson"
+        ]
+    },
+    {
+        "name": "Before Sunrise",
+        "country": [
+            "English",
+            "German",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby SR",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "director": [
+            "Richard Linklater"
+        ]
+    },
+    {
+        "name": "Gone Girl",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "149 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+        "director": [
+            "David Fincher"
+        ]
+    },
+    {
+        "name": "Catch Me If You Can",
+        "country": [
+            "USA",
+            "Canada"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "141 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+        "director": [
+            "Steven Spielberg"
+        ]
+    },
+    {
+        "name": "Hacksaw Ridge",
+        "country": [
+            "Australia",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Japanese"
+        ],
+        "runtime": "139 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "director": [
+            "Mel Gibson"
+        ]
+    },
+    {
+        "name": "Prisoners",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "153 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+        "director": [
+            "Denis Villeneuve"
+        ]
+    },
+    {
+        "name": "Anand",
+        "country": [
+            "Hindi"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNGFlYmUtMTA0Ny00MzE1LTk1NjAtNjIxYzczZmQxNzk2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+        "bio": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+        "director": [
+            "Hrishikesh Mukherjee"
+        ]
+    },
+    {
+        "name": "Persona",
+        "country": [
+            "Swedish",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+        "director": [
+            "Ingmar Bergman"
+        ]
+    },
+    {
+        "name": "Andhadhun",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "runtime": "139 min",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+        "director": [
+            "Sriram Raghavan"
+        ]
+    },
+    {
+        "name": "Sherlock Jr.",
+        "country": [
+            "None",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "director": [
+            "Buster Keaton"
+        ]
+    },
+    {
+        "name": "The Big Lebowski",
+        "country": [
+            "English",
+            "German",
+            "Hebrew",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "DTS",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+        "director": [
+            "Joel Coen"
+        ]
+    },
+    {
+        "name": "H\u00f6stsonaten",
+        "country": [
+            "Swedish",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGIyMWRlYTctMWNlMi00ZGIzLThjOTgtZjQzZjRjNmRhMDdlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A married daughter who longs for her mother's love is visited by the latter, a successful concert pianist.",
+        "director": [
+            "Ingmar Bergman"
+        ]
+    },
+    {
+        "name": "To Be or Not to Be",
+        "country": [
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "director": [
+            "Ernst Lubitsch"
+        ]
+    },
+    {
+        "name": "The General",
+        "country": [
+            "None",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+        "director": [
+            "Clyde Bruckman"
+        ]
+    },
+    {
+        "name": "Barry Lyndon",
+        "country": [
+            "English",
+            "German",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+        "director": [
+            "Stanley Kubrick"
+        ]
+    },
+    {
+        "name": "How to Train Your Dragon",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "98 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+        "director": [
+            "Dean DeBlois"
+        ]
+    },
+    {
+        "name": "Ford v Ferrari",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Italian",
+            "French",
+            "Japanese"
+        ],
+        "runtime": "152 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "director": [
+            "James Mangold"
+        ]
+    },
+    {
+        "name": "Eskiya",
+        "country": [
+            "Turkish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",
+        "director": [
+            "Yavuz Turgul"
+        ]
+    },
+    {
+        "name": "12 Years a Slave",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "134 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "director": [
+            "Steve McQueen"
+        ]
+    },
+    {
+        "name": "Mr. Smith Goes to Washington",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+        "director": [
+            "Frank Capra"
+        ]
+    },
+    {
+        "name": "Mad Max: Fury Road",
+        "country": [
+            "Australia",
+            "South Africa",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Russian"
+        ],
+        "runtime": "120 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+        "director": [
+            "George Miller"
+        ]
+    },
+    {
+        "name": "Dead Poets Society",
+        "country": [
+            "English",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "70 mm 6-Track",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+        "director": [
+            "Peter Weir"
+        ]
+    },
+    {
+        "name": "Million Dollar Baby",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Irish"
+        ],
+        "runtime": "132 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A determined woman works with a hardened boxing trainer to become a professional.",
+        "director": [
+            "Clint Eastwood"
+        ]
+    },
+    {
+        "name": "Network",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+        "director": [
+            "Sidney Lumet"
+        ]
+    },
+    {
+        "name": "Stand by Me",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "89 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+        "director": [
+            "Rob Reiner"
+        ]
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "country": [
+            "UK"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "130 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+        "director": [
+            "David Yates"
+        ]
+    },
+    {
+        "name": "Ben-Hur",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "6-Track Stereo",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+        "director": [
+            "William Wyler"
+        ]
+    },
+    {
+        "name": "Hachi: A Dog's Tale",
+        "country": [
+            "UK",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Japanese"
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "A college professor bonds with an abandoned dog he takes into his home.",
+        "director": [
+            "Lasse Hallstr\u00f6m"
+        ]
+    },
+    {
+        "name": "Soul",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
+        "director": [
+            "Pete Docter"
+        ]
+    },
+    {
+        "name": "Cool Hand Luke",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+        "director": [
+            "Stuart Rosenberg"
+        ]
+    },
+    {
+        "name": "Ah-ga-ssi",
+        "country": [
+            "South Korea"
+        ],
+        "language": [
+            "Korean",
+            "Japanese"
+        ],
+        "runtime": "145 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+        "director": [
+            "Chan-wook Park"
+        ]
+    },
+    {
+        "name": "Platoon",
+        "country": [
+            "USA",
+            "UK"
+        ],
+        "language": [
+            "English",
+            "Vietnamese"
+        ],
+        "runtime": "120 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+        "director": [
+            "Oliver Stone"
+        ]
+    },
+    {
+        "name": "Logan",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "runtime": "137 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+        "director": [
+            "James Mangold"
+        ]
+    },
+    {
+        "name": "Into the Wild",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English",
+            "Danish"
+        ],
+        "runtime": "148 min",
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+        "director": [
+            "Sean Penn"
+        ]
+    },
+    {
+        "name": "Rush",
+        "country": [
+            "UK",
+            "Germany",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "German",
+            "Italian",
+            "French",
+            "Spanish"
+        ],
+        "runtime": "123 min",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+        "director": [
+            "Ron Howard"
+        ]
+    },
+    {
+        "name": "Le salaire de la peur",
+        "country": [
+            "French",
+            "English",
+            "Spanish",
+            "German",
+            "Italian",
+            "Russian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Adventure"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+        "director": [
+            "Henri-Georges Clouzot"
+        ]
+    },
+    {
+        "name": "Life of Brian",
+        "country": [
+            "English",
+            "Latin"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Stereo",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+        "director": [
+            "Terry Jones"
+        ]
+    },
+    {
+        "name": "La haine",
+        "country": [
+            "France"
+        ],
+        "language": [
+            "French"
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+        "director": [
+            "Mathieu Kassovitz"
+        ]
+    },
+    {
+        "name": "Les quatre cents coups",
+        "country": [
+            "French",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+        "bio": "A young boy, left without attention, delves into a life of petty crime.",
+        "director": [
+            "Fran\u00e7ois Truffaut"
+        ]
+    },
+    {
+        "name": "Spotlight",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "129 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "director": [
+            "Tom McCarthy"
+        ]
+    },
+    {
+        "name": "La passion de Jeanne d'Arc",
+        "country": [
+            "None",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+        "director": [
+            "Carl Theodor Dreyer"
+        ]
+    },
+    {
+        "name": "Hotel Rwanda",
+        "country": [
+            "UK",
+            "South Africa",
+            "Italy",
+            "USA"
+        ],
+        "language": [
+            "English",
+            "French",
+            "Kinyarwanda"
+        ],
+        "runtime": "121 min",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+        "director": [
+            "Terry George"
+        ]
+    },
+    {
+        "name": "Amores perros",
+        "country": [
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+        "bio": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+        "director": [
+            "Alejandro G. I\u00f1\u00e1rritu"
+        ]
+    },
+    {
+        "name": "Gangs of Wasseypur",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Hindi"
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Action"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+        "director": [
+            "Anurag Kashyap"
+        ]
+    },
+    {
+        "name": "Andrei Rublev",
+        "country": [
+            "Russian",
+            "Italian",
+            "Tatar"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Biography"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+        "bio": "The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.",
+        "director": [
+            "Andrei Tarkovsky"
+        ]
+    },
+    {
+        "name": "Rocky",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+        "director": [
+            "John G. Avildsen"
+        ]
+    },
+    {
+        "name": "Monsters, Inc.",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "92 min",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+        "director": [
+            "Pete Docter"
+        ]
+    },
+    {
+        "name": "Kaze no tani no Naushika",
+        "country": [
+            "Japan"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "Warrior and pacifist Princess Nausica\u00e4 desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+        "director": [
+            "Hayao Miyazaki"
+        ]
+    },
+    {
+        "name": "Dom za vesanje",
+        "country": [
+            "Macedonian",
+            "Slovenian",
+            "Romany",
+            "Serbo-Croatian",
+            "Italian",
+            "English",
+            "German"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BODI2ZjVlMGQtMWE5ZS00MjJiLWIyMWYtMGU5NmIxNDc0OTMyXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In this luminous tale set in the area around Sarajevo and in Italy, Perhan, an engaging young Romany (gypsy) with telekinetic powers, is seduced by the quick-cash world of petty crime, which threatens to destroy him and those he loves.",
+        "director": [
+            "Emir Kusturica"
+        ]
+    },
+    {
+        "name": "Rebecca",
+        "country": [
+            "English",
+            "French"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+        "director": [
+            "Alfred Hitchcock"
+        ]
+    },
+    {
+        "name": "Before Sunset",
+        "country": [
+            "USA",
+            "France"
+        ],
+        "language": [
+            "English",
+            "French"
+        ],
+        "runtime": "80 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+        "director": [
+            "Richard Linklater"
+        ]
+    },
+    {
+        "name": "Rang De Basanti",
+        "country": [
+            "Hindi"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+        "director": [
+            "Rakeysh Omprakash Mehra"
+        ]
+    },
+    {
+        "name": "Du rififi chez les hommes",
+        "country": [
+            "French",
+            "Italian",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": " Black and White",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjZmZGRiMDgtNDkwNi00OTZhLWFhZmMtYTdkYjgyNThhOWY3XkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Four men plan a technically perfect crime, but the human element intervenes...",
+        "director": [
+            "Jules Dassin"
+        ]
+    },
+    {
+        "name": "Fa yeung nin wah",
+        "country": [
+            "Hong Kong",
+            "China"
+        ],
+        "language": [
+            "Cantonese",
+            "Shanghainese",
+            "French",
+            "Spanish"
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+        "director": [
+            "Kar-Wai Wong"
+        ]
+    },
+    {
+        "name": "Paris, Texas",
+        "country": [
+            "English",
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+        "director": [
+            "Wim Wenders"
+        ]
+    },
+    {
+        "name": "It Happened One Night",
+        "country": [
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",
+        "director": [
+            "Frank Capra"
+        ]
+    },
+    {
+        "name": "Portrait de la jeune fille en feu",
+        "country": [
+            "France"
+        ],
+        "language": [
+            "French",
+            "Italian"
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY268_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+        "director": [
+            "C\u00e9line Sciamma"
+        ]
+    },
+    {
+        "name": "Drishyam",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Hindi",
+            "English"
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+        "bio": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "director": [
+            "Nishikant Kamat"
+        ]
+    },
+    {
+        "name": "Drishyam",
+        "country": [
+            "India"
+        ],
+        "language": [
+            "Malayalam"
+        ],
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY268_CR11,0,182,268_AL__QL50.jpg",
+        "bio": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+        "director": [
+            "Jeethu Joseph"
+        ]
+    },
+    {
+        "name": "Koe no katachi",
+        "country": [
+            "Japan"
+        ],
+        "language": [
+            "Japanese",
+            "Japanese Sign Language"
+        ],
+        "runtime": "Color",
+        "genre": [
+            "Animation"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+        "bio": "A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.",
+        "director": [
+            "Naoko Yamada"
+        ]
+    },
+    {
+        "name": "Contratiempo",
+        "country": [
+            "Spanish"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "    ",
+        "genre": [
+            "Crime"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDk0YzAwYjktMWFiZi00Y2FmLWJmMmMtMzUyZDZmMmU5MjkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+        "bio": "A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.",
+        "director": [
+            "Oriol Paulo"
+        ]
+    },
+    {
+        "name": "La battaglia di Algeri",
+        "country": [
+            "Arabic",
+            "French",
+            "English"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Mono",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+        "bio": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+        "director": [
+            "Gillo Pontecorvo"
+        ]
+    },
+    {
+        "name": "The Help",
+        "country": [
+            "USA"
+        ],
+        "language": [
+            "English"
+        ],
+        "runtime": "146 min",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+        "director": [
+            "Tate Taylor"
+        ]
+    },
+    {
+        "name": "Mandariinid",
+        "country": [
+            "Estonian",
+            "Russian",
+            "Georgian"
+        ],
+        "language": [
+            "    ",
+            "See more\u00a0\u00bb",
+            "    "
+        ],
+        "runtime": "Dolby Digital",
+        "genre": [
+            "Drama"
+        ],
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+        "bio": "In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.",
+        "director": [
+            "Zaza Urushadze"
+        ]
+    }
+]

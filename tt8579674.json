@@ -1,0 +1,25 @@
+{
+    "name": "1917",
+    "country": [
+        "USA",
+        "UK",
+        "India",
+        "Spain",
+        "Canada",
+        "China"
+    ],
+    "language": [
+        "English",
+        "French",
+        "German"
+    ],
+    "runtime": "119 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "director": [
+        "Sam Mendes"
+    ]
+}

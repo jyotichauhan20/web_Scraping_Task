@@ -1,0 +1,19 @@
+{
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "country": [
+        "UK",
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "115 min",
+    "genre": [
+        "Comedy"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "director": [
+        "Martin McDonagh"
+    ]
+}

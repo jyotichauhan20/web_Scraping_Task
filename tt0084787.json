@@ -1,0 +1,21 @@
+{
+    "name": "The Thing",
+    "country": [
+        "English",
+        "Norwegian"
+    ],
+    "language": [
+        "    ",
+        "See more\u00a0\u00bb",
+        "    "
+    ],
+    "runtime": "Dolby Stereo",
+    "genre": [
+        "Horror"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "director": [
+        "John Carpenter"
+    ]
+}

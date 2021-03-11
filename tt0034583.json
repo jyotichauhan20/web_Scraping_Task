@@ -1,0 +1,21 @@
+{
+    "name": "Casablanca",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "runtime": "102 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "director": [
+        "Michael Curtiz"
+    ]
+}

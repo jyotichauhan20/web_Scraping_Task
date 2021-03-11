@@ -1,0 +1,21 @@
+{
+    "name": "Kill Bill: Vol. 1",
+    "country": [
+        "USA",
+        "Japan"
+    ],
+    "language": [
+        "English",
+        "Japanese",
+        "French"
+    ],
+    "runtime": "111 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "director": [
+        "Quentin Tarantino"
+    ]
+}

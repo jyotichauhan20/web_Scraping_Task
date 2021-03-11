@@ -1,0 +1,21 @@
+{
+    "name": "Ford v Ferrari",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Italian",
+        "French",
+        "Japanese"
+    ],
+    "runtime": "152 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "director": [
+        "James Mangold"
+    ]
+}

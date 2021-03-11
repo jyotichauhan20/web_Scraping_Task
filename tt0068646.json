@@ -1,0 +1,20 @@
+{
+    "name": "The Godfather",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Italian",
+        "Latin"
+    ],
+    "runtime": "175 min",
+    "genre": [
+        "Crime"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "bio": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+    "director": [
+        "Francis Ford Coppola"
+    ]
+}

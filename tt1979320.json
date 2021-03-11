@@ -1,0 +1,24 @@
+{
+    "name": "Rush",
+    "country": [
+        "UK",
+        "Germany",
+        "USA"
+    ],
+    "language": [
+        "English",
+        "German",
+        "Italian",
+        "French",
+        "Spanish"
+    ],
+    "runtime": "123 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "director": [
+        "Ron Howard"
+    ]
+}

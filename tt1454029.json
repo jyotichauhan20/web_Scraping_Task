@@ -1,0 +1,18 @@
+{
+    "name": "The Help",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "146 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    "director": [
+        "Tate Taylor"
+    ]
+}

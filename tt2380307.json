@@ -1,0 +1,20 @@
+{
+    "name": "Coco",
+    "country": [
+        "USA",
+        "Mexico"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "105 min",
+    "genre": [
+        "Animation"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "bio": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "director": [
+        "Lee Unkrich"
+    ]
+}

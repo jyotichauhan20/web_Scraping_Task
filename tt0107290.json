@@ -1,0 +1,19 @@
+{
+    "name": "Jurassic Park",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "127 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "director": [
+        "Steven Spielberg"
+    ]
+}

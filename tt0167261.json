@@ -1,0 +1,21 @@
+{
+    "name": "The Lord of the Rings: The Two Towers",
+    "country": [
+        "New Zealand",
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Sindarin",
+        "Old English"
+    ],
+    "runtime": "179 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "director": [
+        "Peter Jackson"
+    ]
+}

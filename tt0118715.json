@@ -1,0 +1,23 @@
+{
+    "name": "The Big Lebowski",
+    "country": [
+        "English",
+        "German",
+        "Hebrew",
+        "Spanish"
+    ],
+    "language": [
+        "    ",
+        "See more\u00a0\u00bb",
+        "    "
+    ],
+    "runtime": "DTS",
+    "genre": [
+        "Comedy"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "director": [
+        "Joel Coen"
+    ]
+}

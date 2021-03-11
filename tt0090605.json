@@ -1,0 +1,19 @@
+{
+    "name": "Aliens",
+    "country": [
+        "UK",
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "137 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+    "director": [
+        "James Cameron"
+    ]
+}

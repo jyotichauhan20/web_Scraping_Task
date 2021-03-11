@@ -1,0 +1,19 @@
+{
+    "name": "Warrior",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "140 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "director": [
+        "Gavin O'Connor"
+    ]
+}

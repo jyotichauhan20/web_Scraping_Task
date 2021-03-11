@@ -1,0 +1,20 @@
+{
+    "name": "Terminator 2: Judgment Day",
+    "country": [
+        "USA",
+        "France"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "137 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced and powerful cyborg.",
+    "director": [
+        "James Cameron"
+    ]
+}

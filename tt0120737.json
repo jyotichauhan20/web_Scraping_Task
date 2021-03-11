@@ -1,0 +1,20 @@
+{
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "country": [
+        "New Zealand",
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Sindarin"
+    ],
+    "runtime": "178 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "director": [
+        "Peter Jackson"
+    ]
+}

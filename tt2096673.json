@@ -1,0 +1,19 @@
+{
+    "name": "Inside Out",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Portuguese"
+    ],
+    "runtime": "95 min",
+    "genre": [
+        "Animation"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "director": [
+        "Pete Docter"
+    ]
+}

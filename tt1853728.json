@@ -1,0 +1,21 @@
+{
+    "name": "Django Unchained",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "German",
+        "French",
+        "Italian"
+    ],
+    "runtime": "165 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+    "director": [
+        "Quentin Tarantino"
+    ]
+}

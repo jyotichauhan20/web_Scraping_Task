@@ -1,0 +1,19 @@
+{
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "country": [
+        "USA",
+        "UK"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "124 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+    "director": [
+        "Irvin Kershner"
+    ]
+}

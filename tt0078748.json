@@ -1,0 +1,19 @@
+{
+    "name": "Alien",
+    "country": [
+        "UK",
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "117 min",
+    "genre": [
+        "Horror"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+    "director": [
+        "Ridley Scott"
+    ]
+}

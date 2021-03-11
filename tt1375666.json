@@ -1,0 +1,21 @@
+{
+    "name": "Inception",
+    "country": [
+        "USA",
+        "UK"
+    ],
+    "language": [
+        "English",
+        "Japanese",
+        "French"
+    ],
+    "runtime": "148 min",
+    "genre": [
+        "Action"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "director": [
+        "Christopher Nolan"
+    ]
+}

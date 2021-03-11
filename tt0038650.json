@@ -1,0 +1,19 @@
+{
+    "name": "It's a Wonderful Life",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "French"
+    ],
+    "runtime": "130 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "bio": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "director": [
+        "Frank Capra"
+    ]
+}

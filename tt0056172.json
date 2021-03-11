@@ -1,0 +1,20 @@
+{
+    "name": "Lawrence of Arabia",
+    "country": [
+        "UK"
+    ],
+    "language": [
+        "English",
+        "Arabic",
+        "Turkish"
+    ],
+    "runtime": "187 min",
+    "genre": [
+        "Adventure"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "bio": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+    "director": [
+        "David Lean"
+    ]
+}

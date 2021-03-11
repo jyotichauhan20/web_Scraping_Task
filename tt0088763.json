@@ -1,0 +1,18 @@
+{
+    "name": "Back to the Future",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "116 min",
+    "genre": [
+        "Adventure"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "director": [
+        "Robert Zemeckis"
+    ]
+}

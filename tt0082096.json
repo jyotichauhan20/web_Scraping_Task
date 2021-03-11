@@ -1,0 +1,18 @@
+{
+    "name": "Das Boot",
+    "country": [
+        "West Germany"
+    ],
+    "language": [
+        "German"
+    ],
+    "runtime": "149 min",
+    "genre": [
+        "Adventure"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "director": [
+        "Wolfgang Petersen"
+    ]
+}

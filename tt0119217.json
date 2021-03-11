@@ -1,0 +1,18 @@
+{
+    "name": "Good Will Hunting",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English"
+    ],
+    "runtime": "126 min",
+    "genre": [
+        "Drama"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "director": [
+        "Gus Van Sant"
+    ]
+}

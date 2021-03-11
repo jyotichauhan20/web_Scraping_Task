@@ -1,0 +1,19 @@
+{
+    "name": "Heat",
+    "country": [
+        "USA"
+    ],
+    "language": [
+        "English",
+        "Spanish"
+    ],
+    "runtime": "170 min",
+    "genre": [
+        "Crime"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "bio": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "director": [
+        "Michael Mann"
+    ]
+}
